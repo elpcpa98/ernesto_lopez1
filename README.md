@@ -2,8 +2,8 @@
 ### CONTACT
 
 <!-- Add your details... el &nbsp; significa espacio, y para poner url tienes que poner el [....] y despues el link -->
-✉️: elp.cpa98@gmail.com 
-&nbsp;&nbsp; 📲 +65-9445 4532
+✉️: e_p_c_@gmail.com 
+&nbsp;&nbsp; 📲 +65-XXXX XXXX
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [LinkedIn](https://www.linkedin.com/in/ernestolopez1/) 
 <!-- CONTACT Section Ends -->
 
