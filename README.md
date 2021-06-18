@@ -1,19 +1,19 @@
 <!-- CONTACT Section Starts -->
 ### CONTACT
 
-<!-- Add your details -->
+<!-- Add your details... el &nbsp; significa espacio, y para poner url tienes que poner el [....] y despues el link -->
 ✉️: elp.cpa98@gmail.com 
 &nbsp;&nbsp; 📲 +65-9445 4532
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [LinkedIn](https://www.linkedin.com/in/ernestolopez1/) 
 <!-- CONTACT Section Ends -->
 
-<!-- ABOUT Section Starts -->
+<!-- ABOUT Section Starts ... si pones mas ### se hace mas pequenio, about tiene 3 y es mas grande que otros, en experiencia laboral, la compania tiene 2, asi que es mas pequenio -->
 ### ABOUT
 <!-- Add link to your picture -->
 
-![alt text](https://raw.githubusercontent.com/krvishwesh54/Kumar-Vishwesh/main/images/profile.jpg)
+![alt text](https://github.com/elpcpa98/ernesto_lopez1/blob/main/photo.png)
 
-<!-- Add your details -->
+<!-- Add your details ... el guion bajo significa negritas-->
 
 I am __Kumar Vishwesh__, a seasoned data scientist with ~7 years of progressive experience in artificial intelligence. I have contributed as an AI product developer (R&D unit) and been AI consultant for top-notch clients in their AI journey. I am involved in comprehensive development, design & analysis of AI algorithms to build analytical solutions, while facilitating and leading data science teams.
 
